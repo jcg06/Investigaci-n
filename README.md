@@ -1,2 +1,2 @@
 # Investigaci-n
-trabajo de grado
+Códigos, datos y anexos de trabajo final de maestría "
